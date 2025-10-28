@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "book-store-app": "file:.."
+  }
+}
